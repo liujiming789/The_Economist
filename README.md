@@ -9,9 +9,15 @@ update The Economist of 2019   pdf version
 2. [freemagazinepdf.com](https://freemagazinepdf.com/?s=The+Economist "freemagazinepdf.com")
 3. [magazinelib.com](https://magazinelib.com/all/the-economist/ "magazinelib.com")
 
-## 关于PDF封面
+## 关于The Economist封面
 
-[The Economist 封面简史](https://www.linkedin.com/pulse/economist-封面简史一-promise-hsu)
+[官网封面查询](https://www.economist.com/printedition/covers)
+
+1. [像The Economist那样耐心](https://www.linkedin.com/pulse/%E5%83%8Fthe-economist%E9%82%A3%E6%A0%B7%E8%80%90%E5%BF%83-promise-hsu?trk=mp-reader-card)
+2. [The Economist 封面简史（一）](https://www.linkedin.com/pulse/economist-封面简史一-promise-hsu)
+3. [The Economist 封面简史（二）](https://www.linkedin.com/pulse/economist-%E5%B0%81%E9%9D%A2%E7%AE%80%E5%8F%B2%E4%BA%8C-promise-hsu?trk=portfolio_article-card_title)
+
+
 
 
 
