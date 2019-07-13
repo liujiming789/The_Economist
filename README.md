@@ -1,6 +1,8 @@
 # The_Economist
 update The Economist of 2019   pdf version
 
+主要的内容来自另一个[The Economist仓库](https://github.com/nailperry-zd/The-Economist) 这个仓库主要是为了补充PDF版本
+
 ## websites:
 
 1. [ukmagazinesfree.com](http://ukmagazinesfree.com/?s=The+Economist "ukmagazinesfree.com")
