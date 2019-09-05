@@ -17,6 +17,10 @@ update The Economist of 2019   pdf version
 2. [The Economist 封面简史（一）](https://www.linkedin.com/pulse/economist-封面简史一-promise-hsu)
 3. [The Economist 封面简史（二）](https://www.linkedin.com/pulse/economist-%E5%B0%81%E9%9D%A2%E7%AE%80%E5%8F%B2%E4%BA%8C-promise-hsu?trk=portfolio_article-card_title)
 
+## more
+
+[What is the difference between the different regional editions of The Economist? Electronic and print?](https://www.quora.com/What-is-the-difference-between-the-different-regional-editions-of-The-Economist-Electronic-and-print)
+
 
 
 
